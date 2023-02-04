@@ -1,2 +1,3 @@
 # gym-proj
-https://Abhishekkumar969.github.io/gym-app/
+
+https://abhishekkumar969.github.io/gym-proj/
