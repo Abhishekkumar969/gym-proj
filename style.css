@@ -37,6 +37,10 @@ body {
     top: 20px;
 }
 
+.right form {
+    display: inline;
+}
+
 .navbar {
     display: inline-block;
 }
